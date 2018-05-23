@@ -1,0 +1,19 @@
+{
+  "name": "hello-npm-script",
+  "version": "1.0.0",
+  "description": "hello npm script",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "script"
+  ],
+  "author": "Mayner",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
