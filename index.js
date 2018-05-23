@@ -1,5 +1,5 @@
-const str = 'some value';
+const add = (a, b) => {
+    return a + b;
+};
 
-function fn(){
-    console.log('some log');
-}
+module.exports = { add  };
